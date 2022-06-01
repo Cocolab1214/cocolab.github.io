@@ -1,6 +1,21 @@
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<html>
+<head>
+<style>
+h1{back-ground color:yello; color:green}
+</style>
 
-<p>Hello!</p>
-<p>I am Cocolab.</p>
+
+<center>
+<body>
+<p><h1>Hello! This is Cocolab.</p>
+<img width="120" height="=120" src="coco.jpeg">
+
 <p>And I am Doggie.</p>
-<p>We are Memon's favorite</p>
+<img width="120" height="120" src="doggo.jpeg">
+
+<p>Here is a doggo video!</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ah6fmNEtXFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</h1>
+</center>
+
+</html>
